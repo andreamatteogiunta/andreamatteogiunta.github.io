@@ -9,56 +9,42 @@ redirect_from:
 
 {% include base_path %}
 
+Research fields
+======
+Labor economics; Inequality studies; Economics of Education; Applied Microeconomics; Development Economics
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Economics and Finance, Università Cattolica del Sacro Cuore, 20230 (expected)
+* M.Sc. in Economics, Università Cattolica del Sacro Cuore, 2023
+* B.S. in Business Administration, Università di Firenze, 2021
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* November 2025 - March 2026: Research Assistant (PRIN 2022 - PNRR)
+* *Università Cattolica del Sacro Cuore*
+  * Conducted empirical research on intergenerational educational mobility and wealth inequality across Italian regions 
+  * Constructed and harmonized datasets for empirical analysis, ensuring consistency across multiple sources 
+  * Worked with survey data covering 100,000 individuals 
+  * Co-authored research papers and contributed to policy-oriented outputs 
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* February 2024 - November 2025: Research Assistant (REFLEX 2020)
+* *Università Cattolica del Sacro Cuore*
+  * Worked with administrative panel data covering over 2.4 million individuals (37+ million observations) and integrated multiple data sources 
+  * Constructed a multidimensional social exclusion index at the household level 
+  * Developed econometrics models including pooled cross-sectional and panel-based logistic models with cohort and time dynamics, to analyze persistence dynamics in education and labor market outcomes 
+  * Estimated nonlinear and probabilistic models, identifying a U-shaped pattern for the low-wage persistence
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
+ 
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
