@@ -15,7 +15,7 @@ Labor economics; Inequality studies; Economics of Education; Applied Microeconom
 
 Education
 ======
-* Ph.D in Economics and Finance, Università Cattolica del Sacro Cuore, 20230 (expected)
+* Ph.D in Economics and Finance, Università Cattolica del Sacro Cuore, 2030 (expected)
 * M.Sc. in Economics, Università Cattolica del Sacro Cuore, 2023
 * B.S. in Business Administration, Università di Firenze, 2021
 
