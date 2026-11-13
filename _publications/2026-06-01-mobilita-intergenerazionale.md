@@ -2,6 +2,7 @@
 title: "Perché occorre più mobilità intergenerazionale"
 collection: publications
 category: manuscripts
+permalink: /publication/2026-06-01-mobilita-intergenerazionale
 excerpt: 'How much does the family you are born into shape your economic destiny? An essay on why Italy needs more intergenerational mobility.'
 date: 2026-06-01
 venue: 'Vita e Pensiero'
