@@ -22,6 +22,7 @@ Education
 Work experience
 ======
 * **November 2025 - March 2026**: Research Assistant (PRIN 2022 - PNRR)
+
 *Università Cattolica del Sacro Cuore*
   * Conducted empirical research on intergenerational educational mobility and wealth inequality across Italian regions 
   * Constructed and harmonized datasets for empirical analysis, ensuring consistency across multiple sources 
@@ -29,7 +30,8 @@ Work experience
   * Co-authored research papers and contributed to policy-oriented outputs 
 
 * **February 2024 - November 2025**: Research Assistant (REFLEX 2020)
-Università Cattolica del Sacro Cuore*
+
+*Università Cattolica del Sacro Cuore*
   * Worked with administrative panel data covering over 2.4 million individuals (37+ million observations) and integrated multiple data sources 
   * Constructed a multidimensional social exclusion index at the household level 
   * Developed econometric models including pooled cross-sectional and panel-based logistic models with cohort and time dynamics to analyze persistence dynamics in education and labor market outcomes 
