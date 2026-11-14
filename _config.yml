@@ -28,7 +28,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "PhD student in Economics and Finance"
   location         : "Milan, Italy"
-  employer         : "[UCSC](https://publires.unicatt.it/it/persons/andrea-matteo-giunta/)"
+  employer         : "<a href='https://publires.unicatt.it/it/persons/andrea-matteo-giunta/'>UCSC</a>"
   uri              : # URL
   email            : "andreamatteo.giunta@unicatt.it" 
 
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : '[Linkedin](https://www.linkedin.com/in/andrea-matteo-giunta/)'
+  linkedin         : "[Linkedin](https://www.linkedin.com/in/andrea-matteo-giunta/)"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
